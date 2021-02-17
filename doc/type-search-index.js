@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.pspturno2.talleres.modelo","l":"Alumno"},{"p":"com.pspturno2.talleres.controlador","l":"AlumnoServiceControlador"},{"p":"com.pspturno2.talleres.modelo","l":"Monitor"},{"p":"com.pspturno2.talleres.modelo","l":"Taller"},{"p":"com.pspturno2.talleres.controlador","l":"TallerServiceControlador"}]
